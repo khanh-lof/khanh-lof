@@ -1,5 +1,5 @@
 # 💫About Me :
-<img align="right" src="https://cdn.dribbble.com/users/1245139/screenshots/4795849/barreirofreddy_tv_beachman.gif" height="250px"></img>
+<img align="right" src="https://cdn.dribbble.com/users/1245139/screenshots/4795849/barreirofreddy_tv_beachman.gif" height="240px"></img>
 - :credit_card: My fullname is **Lò Hùng Khanh**
 - 🌱 I’m currently learning the 3rd year at **FPT University HCMC**
 - :notebook_with_decorative_cover: My academic focus is on **Software Engineering**
