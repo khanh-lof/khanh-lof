@@ -1,5 +1,5 @@
 # 💫About Me :
-<img align="right" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200px"></img>
+<img align="right" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200px" style="padding-right: 50px;"></img>
 - :credit_card: My fullname is **Lò Hùng Khanh**
 - 🌱 I’m currently learning the 3rd year at **FPT University HCMC**
 - :notebook_with_decorative_cover: My academic focus is on **Software Engineering**
