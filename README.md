@@ -39,9 +39,8 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 # <img src="https://cdn-icons-png.flaticon.com/512/4624/4624025.png" width="24px"> </img>GitHub Stats:
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=khanh-lof&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=khanh-lof&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=khanh-lof&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khanh-lof&theme=nightowl&hide_border=false)
 </div>
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/5075/5075658.png" width="24px"> </img>Contact me via:
