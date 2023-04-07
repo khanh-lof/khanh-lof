@@ -44,7 +44,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khanh-lof&theme=nightowl&hide_border=false)
 </div>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/5075/5075658.png" width="24px"> </img>Contact me via:
+# <img src="https://cdn-icons-png.flaticon.com/512/5075/5075658.png" width="24px"> </img>Contact me via:
 <p align="center">
   <a href="mailto:hungkhanh.lof@gmail.com" >
     <img align="center" alt="khanh-lof | Gmail" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
