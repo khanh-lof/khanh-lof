@@ -1,10 +1,10 @@
 # 💫About Me :
+<img align="right" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300px"></img>
 - :credit_card: My fullname is **Lò Hùng Khanh**
 - 🌱 I’m currently learning the 3rd year at **FPT University HCMC**
 - :notebook_with_decorative_cover: My academic focus is on **Software Engineering**
 - :world_map: I'm living in **Ho Chi Minh City, Viet Nam**
 - :man_technologist: I'm a rookie in coding
-<img align="right" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300px"></img>
 
 # 💻Languages and Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
