@@ -1,11 +1,11 @@
 # 💫About Me :
 <img align="right" src="https://cdn.dribbble.com/users/1245139/screenshots/4795849/barreirofreddy_tv_beachman.gif" height="220px"></img>
 - :credit_card: My fullname is **Lò Hùng Khanh**
-- 🌱 I’m currently learning the 3rd year at **FPT University HCMC**
+- 🌱 I’m currently learning the 4rd year at **FPT University HCMC**
 - :notebook_with_decorative_cover: My academic focus is on **Software Engineering**
 - :world_map: I'm living in **Ho Chi Minh City, Viet Nam**
 - :man_technologist: I'm a rookie in coding
-- :pushpin: I'm trying my best to become a Senior Developer of Java
+- :pushpin: I'm trying my best to become a Senior Developer of .NET
 - :sparkles: My quote: **"Put yourself in someone's shoes. Everything will be better:kissing:"**
 
 # 💻Languages and Tools
