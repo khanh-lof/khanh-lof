@@ -5,7 +5,7 @@
 - :notebook_with_decorative_cover: My academic focus is on **Software Engineering**
 - :world_map: I'm living in **Ho Chi Minh City, Viet Nam**
 - :man_technologist: I'm a rookie in coding
-- :pushpin: I'm trying my best to become a Senior Developer of .NET
+- :pushpin: I'm trying my best to become a Senior Backend Developer/DevOps Engineer
 - :sparkles: My quote: **"Put yourself in someone's shoes. Everything will be better :kissing:"**
 
 # 💻Languages and Tools
