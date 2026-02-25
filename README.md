@@ -1,20 +1,21 @@
 # 💫About Me :
 <img align="right" src="https://cdn.dribbble.com/users/1245139/screenshots/4795849/barreirofreddy_tv_beachman.gif" height="220px"></img>
 - :credit_card: My fullname is **Lò Hùng Khanh**
-- 🌱 I’m currently learning the 4rd year at **FPT University HCMC**
-- :notebook_with_decorative_cover: My academic focus is on **Software Engineering**
+- 🌱 I’m currently Full Stack Software Engineer at **ELCA Viet Nam**
 - :world_map: I'm living in **Ho Chi Minh City, Viet Nam**
-- :man_technologist: I'm a rookie in coding
-- :pushpin: I'm trying my best to become a Senior Backend Developer/DevOps Engineer
+- :man_technologist: 3 years in coding, still learning, always improving.
+- :pushpin: I'm trying my best to become a Senior Software Engineer
 - :sparkles: My quote: **"Put yourself in someone's shoes. Everything will be better :kissing:"**
 
 # 💻Languages and Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Blazor]([https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white](https://img.shields.io/badge/-Blazor-999?style=flat&logo=WebAssembly&logoColor=654FF0))
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 <br/>
